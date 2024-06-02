@@ -50,7 +50,7 @@ https://pubhub.devnetcloud.com/media/genie-feature-browser/docs/?ref=packetswitc
 
 ## Usage
 
-Navigate into the project directory and execute main.py:
+Navigate into the project directory and execute genie-test-parser.py:
 
 ```
 python genie-test-parser.py
