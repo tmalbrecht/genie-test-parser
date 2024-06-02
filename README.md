@@ -2,7 +2,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)
 [![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
-# Simple script to test run the Cisco Genie parser list
+# Simple script to test the Cisco Genie parser
 
 This script will parse the data in a text file containing the output of a "show" command.
 The Genie library will parse the command into a Python dictionary and print it in the terminal.
